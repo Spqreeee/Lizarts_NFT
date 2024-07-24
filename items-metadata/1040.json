@@ -1,0 +1,51 @@
+{
+    "name": "LIZARTS #1040",
+    "description": "LizArts is a universe where thousands of powerful NFT lizards are fighting to revive civilization. All NFT owners will have unique utilities in the LizArts project.",
+    "image": "https://raw.githubusercontent.com/Kkkasum/Lizarts/main/items/1040.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Razor"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Shirt Orange"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "Rusted"
+        },
+        {
+            "trait_type": "Chain",
+            "value": ""
+        },
+        {
+            "trait_type": "Face Accessory",
+            "value": "Cigar"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Body Accessory",
+            "value": "Lightnings Blue"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Hair Yellow"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Combat Blue"
+        }
+    ]
+}
